@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\igl",
+    "\\igl\\opengl",
+    "\\igl\\opengl\\glfw",
+    "\\igl\\opengl\\glfw\\imgui"
+  ],
+  "SelectedNode": "\\igl\\opengl\\glfw\\imgui\\ImGuiMenu.cpp",
+  "PreviewInSolutionExplorer": false
+}
